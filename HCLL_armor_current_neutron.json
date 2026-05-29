@@ -1,0 +1,15 @@
+[
+  {
+    "particle": "neutron",
+    "special_key": "Armor_front_ext",
+    "surface_id": 287,
+    "cell_id": 66,
+    "J_out_mean": 0.0748062315458224,
+    "J_out_std": 9.337657320169991e-05,
+    "J_net_mean": 0.16896797149948403,
+    "J_net_std": 0.00018816057713416724,
+    "J_in_mean": 0.09416173995366163,
+    "J_in_std": 0.00021005615251726222,
+    "chunk_key": "OB_1_b6"
+  }
+]
